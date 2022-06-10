@@ -60,8 +60,8 @@
       </div>
 
       <div>
-        <h2><?php echo $post_2_titulo; ?></h2>
-        <div><?php echo $post_2_contenido; ?></div>
+        <h2><?php echo get_post_2_titulo(); ?></h2>
+        <div><?php echo get_post_2_contenido(); ?></div>
       </div>
 
     </div>
