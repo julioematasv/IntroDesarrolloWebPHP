@@ -1,0 +1,38 @@
+#site-navigation {
+	width: 100rem;
+	height: 10rem;
+	background-image: url(../img/bg_portada.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  border-bottom: 2rem solid #9447c7;
+}
+
+.column h1 {
+  font-size: 5rem;
+  text-align: center;
+  font-weight: bold;
+  line-height: 3rem;
+  padding-top: 3rem;
+}
+
+.column h1 a {
+  color: #ffffff;
+}
+
+#footer {
+  width: 100rem;
+  height: 3rem;
+  background-color: #1d1d1c;
+}
+
+.inner-footer {
+  color: #ffffff;
+  text-align: center;
+  line-height: 1.5rem;
+}
+
+.inner-footer p {
+  line-height: 1rem;
+  padding-top: 1rem;
+}
